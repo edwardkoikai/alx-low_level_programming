@@ -15,5 +15,6 @@ int main(void)
 		alph_low[i] = 'a' + i;
 		putchar(alph_low[i]);
 	}
+	putchar('\n');
 	return (0);
 }
